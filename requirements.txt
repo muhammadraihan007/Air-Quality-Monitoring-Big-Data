@@ -1,0 +1,6 @@
+pyspark==4.0.4
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
